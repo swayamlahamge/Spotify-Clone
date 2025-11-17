@@ -1,0 +1,30 @@
+.border{
+    border:none;
+    border-radius: 20px;
+}
+
+.flex{
+    display: flex;
+    
+}
+
+.width{
+    width: 40px;
+}
+.gap{
+    gap: 25px;
+}
+
+.invert{
+    filter: invert(1);
+}
+.margin{
+    margin: 20px;
+}
+
+.logo-border{
+    border: none;
+    border-radius: 100px;
+    background-color: #e0e0e0;
+    padding: 10px;
+}

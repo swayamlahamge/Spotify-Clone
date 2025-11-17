@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black;
+}
+
+.top{
+    width: 97.5vw;
+    height: 10vh;
+    padding: 10px;
+    padding-left: 36px;
+    
+}
+
+.bottom-left{
+    width: 30vw;
+    height: 90vh;
+    background-color: #1f1f1f;
+    
+    
+    
+}
+.bottom-right{
+    width: 70vw;
+    height: 90vh;
+    float: right;
+    background-color: #1f1f1f;
+}
+
+h4{
+     font-family:Arial, Helvetica, sans-serif;
+     padding: 20px;
+     color: white;
+}
